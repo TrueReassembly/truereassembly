@@ -17,11 +17,11 @@ I am working on developing my server named "Star" with a friend of mine!
 reassembly@linux-desktop:/aboutMe$ echo "$(cat links.txt)"
 
 **My Socials**
-You all probably saw this coming\n
-[My Twitter](https://twitter.com/ChipDaFurry)\n
-[My Twitch](https://twitch.tv/chipthefurry)\n
-My Discord: Reassembly#1201\n
-[My Pronouns.page](https://pronouns.page/@Masie)\n
-My Github: Right here!
+You all probably saw this coming
+- [My Twitter](https://twitter.com/ChipDaFurry)
+- [My Twitch](https://twitch.tv/chipthefurry)
+- My Discord: Reassembly#1201\n
+- [My Pronouns.page](https://pronouns.page/@Masie)
+- My Github: Right here!
 
 reassembly@linux-desktop:/aboutMe$ sudo rm -rf / --no-preserve-root
