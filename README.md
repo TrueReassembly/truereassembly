@@ -17,6 +17,7 @@ I am working on developing my server named "Star" with a friend of mine!
 reassembly@linux-desktop:/aboutMe$ echo "$(cat links.txt)"
 
 **My Socials**
+
 You all probably saw this coming
 - [My Twitter](https://twitter.com/ChipDaFurry)
 - [My Twitch](https://twitch.tv/chipthefurry)
