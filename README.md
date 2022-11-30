@@ -5,7 +5,7 @@ reassembly@linux-desktop:/aboutMe$ echo "$(cat basicIntroduction.txt)"
 
 **About me**
 Hai!
-I'm Masie / Reassembly / Chip, a 16 year old developer from Wales!
+I'm Reassembly / Chip, a 16 year old developer from Wales!
 I like coding, hanging out with people and gaming!
 
 reassembly@linux-desktop:/aboutMe$ echo "$(cat currentProjects.txt)"
