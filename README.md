@@ -11,8 +11,7 @@ I like coding, hanging out with people and gaming!
 reassembly@linux-desktop:/aboutMe$ echo "$(cat currentProjects.txt)"
 
 **My Current Projects**
-Right now I primarily code in Java and mainly use the spigot API to code Minecraft servers
-I am working on developing my server named "ProtoLabs" with a friend of mine!
+Right now I primarily code in Java and mainly use the spigot API to code Minecraft servers.
 I am also learning Kotlin, because I love kotlin!
 
 reassembly@linux-desktop:/aboutMe$ echo "$(cat links.txt)"
