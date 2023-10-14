@@ -1,6 +1,7 @@
 # reassembly@linux-desktop: ~
 
 reassembly@linux-desktop:~$ cd aboutMe
+
 reassembly@linux-desktop:/aboutMe$ echo "$(cat basicIntroduction.txt)"
 
 **About me**
