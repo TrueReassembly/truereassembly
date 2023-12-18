@@ -6,14 +6,14 @@ reassembly@linux-desktop:/aboutMe$ echo "$(cat basicIntroduction.txt)"
 
 **About me**
 Hai!
-I'm Reassembly / Chip, a 17 year old developer from Wales!
+I'm (Re)Assembly, a 17 year old developer from Ye Ol' Land o' Wales!
 I like coding, hanging out with people and gaming!
 
 reassembly@linux-desktop:/aboutMe$ echo "$(cat currentProjects.txt)"
 
 **My Current Projects**
 Right now I primarily code in Java and mainly use the spigot API to code Minecraft servers.
-I am also learning Kotlin, because I love kotlin!
+I am know Kotlin, because I love Kotlin!
 
 reassembly@linux-desktop:/aboutMe$ echo "$(cat links.txt)"
 
@@ -21,8 +21,7 @@ reassembly@linux-desktop:/aboutMe$ echo "$(cat links.txt)"
 
 You all probably saw this coming
 - [My Twitter](https://twitter.com/ChipDaFurry)
-- [My Twitch](https://twitch.tv/chipthefurry)
-- My Discord: Reassembly#1201
+- My Discord: @Reassembly
 - My Github: Right here!
 
 reassembly@linux-desktop:/aboutMe$ sudo rm -rf / --no-preserve-root
